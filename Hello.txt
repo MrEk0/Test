@@ -1,4 +1,4 @@
-Hello! my name is;
-Slim shady;
-Delete;
-Spawn;
+Hello! my name is
+Slim shady
+Delete.
+Spawn
