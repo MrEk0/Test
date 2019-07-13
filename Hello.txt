@@ -1,5 +1,7 @@
-Hello! my name is
-Slim shady
-Delete.
-Spawn
-Glad to see you
+Hello! my name is;
+Slim shady;
+Delete;
+Spawn;
+Glad to see you;
+Hello hello!;
+
