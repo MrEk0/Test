@@ -1,3 +1,2 @@
 # Test
-Git test
-READ me as fast as possible
+Git test in order to learn how to work with GitHub
